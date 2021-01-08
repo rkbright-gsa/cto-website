@@ -4,10 +4,10 @@
 title: Tech at GSA
 email: cto@gsa.gov
 description: >
-  We utilize collaborative practices and modern IT tools to facilitate a new GSA.
+  The GSA Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA.
 
 baseurl: ""
-url: "http://tech.gsa.gov"
+url: "https://tech.gsa.gov"
 markdown: kramdown
 include:
   - '_pages'
@@ -25,6 +25,8 @@ exclude:
   - 'vendor'
   - 'Dockerfile'
   - 'docker-run.sh'
+plugins:
+  - jekyll-sitemap
 
 collections:
   team:
@@ -55,6 +57,11 @@ defaults:
       type: team
     values:
       layout: profile
+  # Exclude assets from sitemap.xml
+  - scope:
+      path: "assets/**"
+    values:
+      sitemap: false
 
 toc:
   min_level: 2

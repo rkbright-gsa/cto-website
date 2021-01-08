@@ -1,3 +1,309 @@
+- title: 10K Devops for Privacy Offices Tech Talk
+  date: Jan 7, 2021
+  time: 1-1:30p ET
+  location:
+  description: >
+     <p>Building Tools to Help Privacy Officers Better Protect Personal Information</p>    
+     <p>Protecting the privacy of Americans is an essential function of our government and every agency has dedicated professionals who ensure that their agency is responsible for collecting and maintaining private information in its systems.</p>
+     <p>The problem is that many of these folks, called privacy officers, are not equipped with modern tools and many rely on paper-based processes to do their important work. This is a problem that seemed ripe for 10x investigation.</p>
+     <p>Over four phases of research and engineering, all while working closely with privacy offices across government, 10x has been able to address this gap by building a custom dashboard that allows privacy officers to do their jobs more quickly and more efficiently by quickly locating over 5,884 records based on the types of private information that is held in systems across government.     </p>
+  presenter: Andrew Hyder and Nico Papafil
+
+- title: AI/ML Challenge Tech Talk
+  date: Dec 9, 2020
+  time: 1-1:30p ET
+  location:
+  description: >
+     <p>The OCTO team worked with FAS IT Category staff to conduct an online challenge on the challenge.gov platform during summer 2020.  </p>  
+     <p>We asked teams to use Artificial Intelligence and Machine Learning (AI/ML) to improve the process of reviewing End User License Agreements (EULAs).</p>
+     <p>The challenge received 20 submissions from individuals, companies, and students.</p>
+     <p>Ryan Day of the OCTO will share what we learned about the technology and data science methods from these solvers.</p>
+  presenter: Ryan Day
+  slides: /AI_MLTechTalk12_9_2020Public.pdf
+
+- title: Deep Analytics Tech Talk
+  date: Nov 18, 2020
+  time: 1-1:30p ET
+  location:
+  description: >
+     <p>We are used to destination analytics; that is, going to some place called “My Dashboards” (or similar) and playing with datasets. We will touch upon some of these considerations.</p>
+     <p>But how about having the information “jump at you” in the context of your business transaction, adapted to a specific issue you are working on addressing? Just in time when you need it and precisely the way you need it. </p>
+     <p>This calls for deep analytics and entails a number of architectural approaches one should consider when designing and modernizing the IT systems.</p>
+  presenter: Edward Meyman, Dept of Labor
+  slides: /assets/downloads/techtalks/DEEP ANALYTICS1.pdf
+  
+
+- title: Challenge.gov Tech Talk
+  date: Nov 5, 2020
+  time: 1-1:30p ET
+  location:
+  description: >
+     <p>The America COMPETES Reauthorization Act of 2010 provides the head of any federal agency with the authority to carry out prize competitions that have the potential to stimulate innovation and advance the agency’s mission</p>
+     <p>Challenge.gov is the central hub of all federally sponsored prize competitions and has hosted over 1150 prize competitions from over 100 hundred agencies over the past decade.</p>
+     <p>We’ll discuss how federal agencies are using prize competitions as an open innovation mechanism to source technology from a diversity of participants by reducing barriers to participation.</p>
+  presenter: Jarah Meador
+  slides: /assets/downloads/techtalks/TechTalkChallenge.gov.pdf
+
+- title: Trello Tech Talk
+  date: October 28, 2020
+  time: 1-1:30p ET
+  location:
+  description: >
+     <p>Trello is a recently FedRAMPED productivity, task management, and project management tool.</p>
+     <p> While similar collaborative Agile tools are geared towards IT teams, Trello has a much broader application. </p>
+     <p>This tech talk will introduce Trello basics, teach you how to get started, and show you some real-world examples at GSA. We'll also briefly address the 'why's' behind Trello, and when your team should consider its use.</p>
+  presenter: Andrew Politi
+
+- title: OSCAL Tech Talk
+  date: October 21, 2020
+  time: 1-1:30p ET
+  location:
+  description: >
+     <p> The Open Security Controls Assessment Language (OSCAL) enables automation of the authorization to operate (ATO) process. OSCAL is an emerging NIST standard for exchanging ATO package information in a machine-readable format.</p>
+     <p> The Federal Risk and Authorization Management Program (FedRAMP) is enabling stakeholders to create and submit their packages in OSCAL. </p>
+     <p> In this tech talk you will learn more about the benefits of OSCAL, what is available today, how it applies to both cloud and legacy data center ATOs, and how you can get started. </p>
+  presenter: Brian Ruf
+
+- title: ServiceNow Self Service Portal Tech Talk
+  date: October 7, 2020
+  time: 1-1:30p ET
+  location:
+  description: >
+     <p> The self-service portal recently got a makeover and we'd like to show you these cool features!</p>
+     <p> Curie: The new name for Virtual Agent, honoring the innovative Marie Curie. </p> 
+     <p> My Workbench:  See your tickets, approval requests, and assigned equipment all in one place </p>
+     <p> Supervisor's Workbench: See your approval requests and your employees' tickets and assigned equipment all in one place </p>
+     <p> Favorites: Save your favorite articles and requests for easy access </p>
+     <p> And more...</p>
+  presenter: Peter Blaney and Steve Gillespie
+
+- title: GSA IT Collaboration Tools Professionals Tech Talk
+  date: September 9, 2020
+  time: 1-1:30p ET
+  location:
+  description: >
+     <p>Different teams communicate in different ways.  There's no one-size-fits-all solution that meets the needs of every business and operational need. </p>
+     <p>So how are folks supposed to know what's best for their activity?  GSA IT's service catalog includes a robust offering of Communications and Collaboration tools. </p> 
+     <p>This Tech Talk provides a high level overview of the current offerings as well as touches on things to consider when determining what's best for your team. </p>
+  presenter: Sean Zerges and Paul Powell
+  slides: /assets/downloads/techtalks/GSAITTechTalk_CollabTools.pdf 
+
+- title: Professional Development for IT Professionals Tech Talk
+  date: September 1, 2020
+  time: 1-130p
+  location:
+  description: >
+     <p>Some people have ten years of experience, and other people have one year of experience ten times.</p>
+     <p> Are you intentional in your development as an IT Professional, or is your career simply happening to you? Rachel Surick and Ryan Day will share some strategies for Professional Development for IT Pros.</p> 
+     <p> Learn about the new Cyber Career Pathways Tool, Intentional Development, Personal Branding, and becoming a T-Shaped Person.</p>
+  presenter: Rachel Surick and Ryan Day
+  slides:
+
+- title: GSA Acquisition Fax Solutions Tech Talk
+  date: July 23, 2020
+  time: 1-130p
+  location:
+  description: >
+     <p>GSA, do you still need the ability to fax? GSA IT (IQ) has the solution for you. Using FoIP and our Gmail we can assist you with your faxing needs.</p>
+     <p>Faxing is still widely used between GSA and its user community. It is, for the most, part reliable and inexpensive to communicate. Many of our business partners still use this protocol to send and receive information.</p>
+     <p>Teleworking has created the need for "Virtual Faxing" and GSA employees can now send and receive faxes from their laptops. Physical fax machines are becoming a thing of the past.</p>
+     <p>The combination of FOIP and Gmail has allowed GSA users to now send and receive faxes. Faxing has always been a low cost portal for communication between GSA and its Faxing trading partners.</p>
+  presenter: Christine Palko
+  slides: 
+  
+- title: 10x Tech Talk
+  date: June 25, 2020
+  time: 1-130p
+  location:
+  description: >
+     <p><strong>What problem are you trying to solve?</strong></p>
+     <p>10x is an incremental investment program within GSA’s Technology Transformation Services (TTS). 10x funds, supports, and develops ideas from federal employees about how technology can improve the public’s experience with the government.</p>
+     <p>Our approach to IT innovation is based on modern venture capital practices and is designed to spend fewer taxpayer dollars while ensuring the best products and services are funded.</p>
+     <p>10x spends the smallest amount of funding necessary at each stage of a project to determine whether or not it’s worth pursuing.</p>
+     <p>These iterative investments save money while ensuring that the products and services meet a real, verifiable need in the federal marketplace.</p>
+  presenter: Nico Papafil
+  slides: /assets/downloads/techtalks/10xSlides.pdf
+
+- title: Digital Signature Solutions Docu Sign Federal Tech Talk
+  date: June 10, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>DocuSign Federal, GSA’s new digital signature solution went live on October 1, 2019.</p>
+      <p>DocuSign is an intuitive, 508-compliant option that is sure to improve your overall user experience. This digital signature solution offers a robust menu and more drag-and-drop options making it easier than ever to sign and send your documents.</p> 
+      <p>DSS also offers several APIs options which we are going to review during this Tech Talk.</p>
+  presenter: Sudhathi Suthrave
+  slides:
+
+- title: Google Flutter Tech Talk
+  date: May 27, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.</p>
+      <p>Introduced in 2017, it is a growing platform that helps ease cross-platform application development.</p> 
+      <p>It has brought a large number of noteworthy changes to the procedure of application development, which we are going to review during this Tech Talk.</p>
+  presenter: Brian Miguel
+  slides:
+
+- title: Security Considerations with ATOs Tech Talk
+  date: May 20, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>The Federal Assessment and Authorization (A&A) process and the requirements to achieve an Authorization to Operate (ATO) can seem so complicated.<p>
+      <p>Join Bo Berlas, GSA's Chief Information Security Officer, to make sense of it all and review GSA's Agile and risk-based approaches to ATO.</p> 
+  presenter: Bo Berlas
+  slides:
+  
+- title: IDT Reorg Tech Talk
+  date: April 30, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>The GSA IT Office of Digital Infrastructure Technologies (IDT), formerly the GSA IT Office of Infrastructure and Operations (IDI), is in the process of reorganizing in order to shift from project-based stovepipes into product-based plan|build|run or intake|broker|integrate|orchestrate teams.<p>
+      <p>The strategic value of this new business model lies in leveraging existing technology, resources and vendor relationships in a new utility service environment, while improving access and quality of services to clients, and reducing costs of delivery.<p>
+      <p>This Tech Talk will drill down into what Digital Transformation means to IDT, what benefits and changes customers can expect, and the activities IDT is initiating in order to innovate IT for tomorrow.</p> 
+  presenter: Brian Muolo
+  slides: 
+
+- title: HSPD-12 vs. GACA Tech Talk
+  date: April 22, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>As GSA IT has expanded IT tools offerings and options for external access, questions have arisen about when HSPD-12 is required for vendors, and what alternate methods or mechanisms (e.g. GACA) can be used to share information? What are approved NIST 800-63 B Multi-Factor Authentication (MFA) methods to be used for vendors and/or federal customers?<p>
+      <p>Join us for the upcoming Tech Talk for a Q&A session on this topic with Phil Klokis, Associate CIO for the Public Buildings IT Services, and Bo Berlas, the GSA Chief Information Security Officer</p>
+  presenter: Phil Klokis and Bo Berlas
+  slides: 
+
+- title: Technology Modernization Fund (TMF) at GSA Tech Talk
+  date: March 31, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>Learn more about how the Technology Modernization Fund (TMF) are being used to modernize GSA applications.  Hear about completed projects and projects on the horizon.</p>
+      <p>The goal is to transform agency systems from proprietary technologies to open source.<p>
+      <p>Transformation will simplify integrations with other systems; enable greater agility, resiliency, scalability, and performance, reduce the risk of scarce resource/talent pool and in long term lower the cost of operations, improve the quality of product, and help drive cultural change.</p>
+  presenter: Jason Donow and William Wales
+  slides: /assets/downloads/techtalks/TechTalkTMFMarch2020Pub.pdf
+
+- title: Zero Trust Road Map Tech Talk
+  date: March 18, 2020
+  time: 1-130p
+  location: Rm 5007
+  description: >
+      <p>Traditional approaches to IT network security are based on the castle-and-moat concept. In castle-and-moat security, it is hard to obtain access from outside the network, but once inside the network, users are more or less considered trusted.</p>
+      <p>The problem with this approach is that once an attacker gains access to the network, they have more free reign over everything inside.</p>
+      <p>Zero Trust Network (ZTN) security is an IT security framework that requires strict identity verification for every person and device trying to access resources on a private network, regardless of whether they are sitting within or outside of the network perimeter.</p>
+      <p>No single specific technology is associated with zero trust; it is a holistic approach to network security that incorporates several different principles and technologies. In this tech talk, we introduce Zero Trust Network and GSA’s roadmap towards this security framework.</p>
+  presenter: Nadeem Ahmed and Armando Quintananieves
+
+- title: AWS WorkSpaces Tech Talk
+  date: February 27, 2020
+  time: 11-1130a
+  location: Rm 6324
+  description: >
+      <p>Amazon WorkSpaces enables the provision of virtual, cloud-based Microsoft Windows or Amazon Linux desktops for GSA user community, known as WorkSpaces. Amazon WorkSpaces eliminates the need to procure and deploy hardware or install complex software. </p>
+      <p>We can quickly add or remove users as the needs change. Users can access their virtual desktops from multiple devices or web browsers.</p>
+      <p>Amazon WorkSpaces provides the flexibility of either monthly or hourly billing for WorkSpaces. For Windows desktops, there's an option to bring your own licenses and applications or purchase them from the AWS Marketplace for Desktop Apps </p>
+  presenter: Kishore Kakani
+
+- title: Historic Building Documentation Resource (HBDR) Tech Talk
+  date: February 13, 2020
+  time: 1-130p
+  location: Rm 5321
+  description: >
+      <p>This talk is an overview of the Historic Building Documentation Resource (HBDR), also known as the BPP transition project. PBS-IT is currently managing the development of the HBDR interface for use by both the Center for Historic Buildings and supporting project teams assessing and rehabilitating historic buildings.</p>
+      <p>The goal is to offer a simplified solution for management of BPP data and related supporting documents while leveraging the power of the EDMS Alfresco environment.</p>
+      <p>We will review several of these capabilities today designed in Alfresco for the HBDR interface which contribute to the ease of BPP management and increased productivity for users.</p>
+  presenter: Hugo Martinez
+
+- title: Privacy Tech Talk
+  date: January 29
+  time: 9:30-11a
+  location:
+  description: >
+      <p>To mark Data Privacy Day, on January 29th, GSA will host a Privacy Tech Talk featuring the Chief Privacy Officer of the National Security Agency (NSA), Becky Richards and Technical Director of the NSA Privacy Office, Akbar Siddiqui. They will share guidance on how to ethically use Artificial Intelligence within federal agencies.</p>
+      <p>Richard Speidel, who is the Chief Privacy Officer at GSA, will also provide an introduction to this Tech Talk. </p>
+      <p><a href="../assets/downloads/techtalks/PrivacyTechTalkPoster.pdf"><img style="display: block; width: 50%; margin: 0 auto;" src="../assets/img/PrivacyTechTalkPoster.png" alt="A poster for the Privacy Tech Talk. Data Privacy Day is an internationally recognized day dedicated to creating awareness about the importance of privacy and protecting personal information. Tech Talk is Wednesday, January 29th 9:30 to 11:00 am. Register now at https://go.usa.gov/xpSK8/. In 2020, GSA encourages you to own your privacy. Join us for a special Privacy Tech Talk featuring Becky Richards and Akbar Siddiqui, experts from the National Security Agency (NSA). Learn about the ethical use of Artificial Intelligence and Machine Learning within federal agencies."></a></p>
+  presenter: Richard Speidel (GSA), Krista Kinnard (GSA), Becky Richards (NSA), and Akbar Siddiqui (NSA)
+  slides: /assets/downloads/techtalks/2020_0129_AIPrivacy_TechTalk.pdf
+
+- title: Artificial Intelligence and Machine Learning Tech Talk
+  date: January 14, 1-1:30pm
+  location: Virtual and 1800F Rm 2232
+  description: >
+      <p>Machine Learning and Artificial Intelligence are terms that have received quite a bit of attention in recent years.</p>
+      <p>GSA is in the early phases of deploying machine learning to provide business value.</p>
+      <p>In this tech talk, we will discuss some examples of how machine learning is being used in industry and at GSA.</p>
+  presenter: Ryan Day
+
+- title: BPM Tech Talk
+  date: December 12, 1-1:30p
+  location: Virtual and 1800F Rm 5213
+  description: >
+      <p>In this first of upcoming BPM related Tech Talks, you will learn about optimizing your organizational processes through simulation with Trisotech, an enterprise tool suite.</p>
+      <p>Author and Enterprise Architect practitioner Dr. Joshua Fuehrer will discuss how you can use Trisotech to model and simulate to-be changes to business processes in order to examine if desired changes will make an impact. Josh will dive into Trisotech capabilities for simulation and provide an in-depth look at how you can lead within your organisation to help transform their business model; from both an efficiency and effectiveness perspective.</p>
+      <p>We are looking to continue this BPM topic in future tech talks which will include case management, capability or strategic management, and decision modeling.</p>
+  presenter: Dr. Joshua Fuehrer
+  slides: /assets/downloads/techtalks/TechTalksTrisotechCapabilities.pdf
+
+- title: Records Management Tech Talk
+  date: November 21, 2019
+  time: 11-1:30a
+  location: Virtual and 1800F Rm 7119
+  description: >
+       <p>As technology has evolved and federal space has been reduced, the need for managing both physical and electronic records has grown in scale and complexity. In response to these challenges, EDMS Record Management Module helps GSA  comply with federal records management statutes and regulations.</p>
+       <p>The Records Management Module (RMM) is a fully integrated component of the EDMS application and has already been utilized to declare over 3 million GSA documents as records, and growing. </p>
+       <p>On the tech Talk, there will be a demo of the RMM module, how content is declared a record and also what has been declared a record and how the RMM aligns with the NARA RM initiative.</p>
+  presenter: Hugo Martinez and Robert Chambers
+
+- title: GSA API Strategy Tech Talk
+  date: November 14, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 4232
+  description: >
+       <p>Application Programming Interfaces (APIs) are a valuable method to share data with mobile apps, websites, and computer systems. GSA publishes many Public APIs for use outside of GSA. We also have many Non-Public APIs that are used to share functionality or data between GSA systems.</p>
+       <p>There is even a group inside GSA named the "GSA API Guild" that is dedicated solely to API best practices.</p>
+       <p>This tech talk will give a brief overview of APIs, along with an update on the agency's activity with APIs in 2019 and goals for 2020.</p>
+       <div><img style="display: block; width: 50%; margin: 0 auto;" src="../assets/img/API_3_pillars.png" alt="A list of GSA API Strategy's three pillars of implementation: External Customer Experience, Internal Engagement, and Technical Architecture"></div>
+  presenter: Ryan Day
+  slides:
+
+- title: Open Source Tech Talk
+  date: October 10, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 6324
+  description: >
+       <p>Code.gov is the federal government's primary platform for aggregating Open Source Software.</p>
+       <p>With over 6000 OSS projects made available, Code.gov offers you the opportunity to discover and use thousands of available projects.</p>
+       <p>Join Code.gov director, Joe Castle, and lead engineer, Sara Cope, to learn more about Open Source Software, the Federal Source Code Policy, and updates to the Open Source Pilot Program.</p>
+       <p>This talk will also include a walk-through of the Code.gov platform.</p>
+  presenter: Joe Castle and Sara Cope
+  slides:
+
+- title: USWDS Tech Talk
+  date: September 26, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 2232
+  description: >
+       <p><strong>The Rules of Play: Creativity and Constraint in the US Web Design System</strong></p>
+       <p>Designing and building a new government website or digital service requires both coherence with a practical, consistent baseline of user-friendly experience across government and the flexibility to adapt to the specific needs of your mission and audience.</p>
+       <p>The U.S. Web Design System (USWDS) is a digital design toolkit that helps teams achieve both these goals. We’ll take a look at how a design system like USWDS makes agile, iterative development faster, cheaper, and even more fun.</p>
+  presenter: Dan Williams
+  slides:
+
+- title: JAMF Pro Tech Talk
+  date: September 12, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 3211
+  description: >
+       <p>Jamf Pro is a comprehensive management suite for the Macintosh computer platform, and we use it at GSA to manage all our Macs.</p>
+       <p>The objective of this talk is to introduce you to Jamf Pro, to show you what it does, how it works, and how we utilize it at GSA to manage our Macs.</p>
+  presenter: Zachary Nilsston
+  slides: /assets/downloads/techtalks/JamfProTechTalk.pdf
+
 - title: Email Management Tech Talk
   date: August 22, 2019
   time: 1-1:30p
@@ -5,9 +311,9 @@
   description: >
        <p>GSA IT, working in partnership with the Office of Administrative Services, developed a solution in support of email records management (ERM).
        <p>ERM is important because maintaining messages beyond the records retention period poses a risk to the agency through eDiscovery.</p>
-       <p>The ERM working group developed a procedure of expunging from the GSA email system messages that are older than seven fiscal years. 
-       <p>So that users may preserve any of those older messages for personal reference use, GSA IT developed a Chrome extension that allows users to save those message outside the GSA email system--in this case Google Drive. 
-       <p>The Chrome extension saves messages as PDF documents and includes any attachments in their native form. 
+       <p>The ERM working group developed a procedure of expunging from the GSA email system messages that are older than seven fiscal years.
+       <p>So that users may preserve any of those older messages for personal reference use, GSA IT developed a Chrome extension that allows users to save those message outside the GSA email system--in this case Google Drive.
+       <p>The Chrome extension saves messages as PDF documents and includes any attachments in their native form.
        <p>Without this tool users will have to print each message as PDF and manually combine with any attachments to store outside GSA email system.</p>
   presenter: Amar Singh
   slides:
@@ -19,9 +325,9 @@
   description: >
        <p>The Mulesoft Anypoint Platform focuses on unlocking data and building an application network via an API driven approach.
        <p>The Anypoint Platform is a suite of tools that allows users to develop, deploy, manage, secure and collaborate on APIs.
-       <p>GSA is currently leveraging Mulesoft for Salesforce provisioning and there are projects underway in PBS and OGP.</p> 
+       <p>GSA is currently leveraging Mulesoft for Salesforce provisioning and there are projects underway in PBS and OGP.</p>
   presenter: Joe Lawless
-  slides:
+  slides: /assets/downloads/techtalks/MulesoftTechTalk3.pdf
 
 - title: Activiti Tech Talk
   date: July 30, 2019
@@ -31,9 +337,9 @@
        <p>Activiti, part of the EDMS platform, is an enterprise Business Process Management (OA) solution with the flexibility and scalability to handle a wide variety of workflow processes within GSA.
        <p>It provides a powerful suite of end user tools and integrates with a range of enterprise systems to allow for cross team/cross platform workflows.
        <p> Teams such as Occupancy Agreements (OA) and Digital Signatures (DSS) rely on Activiti as it's workflow engine. Close integration with Alfresco allows workflows to drive compliance and records activity.</p>
-  presenter: Hugo Martinez 
+  presenter: Hugo Martinez
   slides: /assets/downloads/techtalks/EDMSAlfrescoActivitiTechTalk.pdf
-  
+
 - title: Sprint-Based Requirements Tech Talk
   date: July 18, 2019
   time: 1-1:30p
@@ -41,9 +347,9 @@
   description: >
        <p>Provide an overview of Sprint-based Requirements and how the Platform Solutions team (ICPA) applies it to development projects.
        <p>Sprint-based Requirements allow IT teams to work closely with their customers to collect requirements and create user stories following a typical agile sprint format that run for two weeks with defined business topics and scope to discover during the sprints.
-       <p>This format ensures that the ICPA team has a proper understanding of how to setup Salesforce standard objects, configure workflows, and setup reports / dashboards based on the needs of the business line. </p> 
-  presenter: Anne Egan 
-  register: 
+       <p>This format ensures that the ICPA team has a proper understanding of how to setup Salesforce standard objects, configure workflows, and setup reports / dashboards based on the needs of the business line. </p>
+  presenter: Anne Egan
+  register:
   slides: /assets/downloads/techtalks/SprintbasedRequirements.pdf
 
 - title: GRACE Tech Talk
@@ -54,10 +360,10 @@
        <p>This talk is an overview of the GSA Readily Available Computing Environment (GRACE).
        <p>The GRACE is a cloud broker, designed for DevSecOps teams with a high level of technical proficiency.
        <p>We will go over GRACE capabilities today.
-       <p>Also we will go over what will be improved, and what GRACE will be sharing with the greater community in the future. </p> 
-  presenter: Bryan Alexander 
+       <p>Also we will go over what will be improved, and what GRACE will be sharing with the greater community in the future. </p>
+  presenter: Bryan Alexander
   slides: /assets/downloads/techtalks/GRACETechTalk6272019.pdf
-  
+
 - title: Alfresco Tech Talk
   date: June 13, 2019
   time: 1-1:30p
@@ -65,9 +371,9 @@
   description: >
        <p>Alfresco is the software behind EDMS.
        <p>The Tech Talk will be about the Upgrading of Alfresco to Version 6.0 and the additional attributes we gain by using it.
-       <p>Tentatively scheduled for release later this summer.</p> 
+       <p>Tentatively scheduled for release later this summer.</p>
   presenter: Richard Shaw
-  slides: 
+  slides:
 
 - title: GitHub Tech Talk
   date: May 23, 2019
@@ -75,9 +381,9 @@
   location: Virtual and 1800F Rm 7115
   description: >
        <p> A Tour of GitHub for Non-Developers: GitHub is a collaboration platform where users can work on open source projects together.
-       <p>In this session, we’ll take a look at the many GitHub features and get you up to speed with version control terminology. 
+       <p>In this session, we’ll take a look at the many GitHub features and get you up to speed with version control terminology.
        <p>We’ll also take a look at a few workflows in GitHub for contributing to open source projects without coding.
-       <p>This is a beginner friendly session for someone who has little to no experience with GitHub.</p> 
+       <p>This is a beginner friendly session for someone who has little to no experience with GitHub.</p>
   presenter: Sara Cope
   slides: /assets/downloads/techtalks/GitHubforNondevelopers2.pdf
 
@@ -86,13 +392,13 @@
   time: 1-1:30p
   location: Virtual and 1800F Rm 4341
   description: >
-        <p>Identifying the right problem to solve is often overlooked when planning a new project. Problems are often framed as, we need to achieve compliance with "X" rather than our solution should make it easier to comply with "X".</p> 
-        <p>Going about this process in a systematic way can be a challenge, it's not every day that you work to tackle the big problems within an organization.</p> 
-        <p>Sprint is a book written by two ex-Googler's who undertook many such challenges when working with clients to transform the way they work.</p> 
-        <p>Sprint focuses on a 5 day, intensive set of sessions to break down issues, center the team on the right problems to solve, and produce prototypes quickly.</p> 
+        <p>Identifying the right problem to solve is often overlooked when planning a new project. Problems are often framed as, we need to achieve compliance with "X" rather than our solution should make it easier to comply with "X".</p>
+        <p>Going about this process in a systematic way can be a challenge, it's not every day that you work to tackle the big problems within an organization.</p>
+        <p>Sprint is a book written by two ex-Googler's who undertook many such challenges when working with clients to transform the way they work.</p>
+        <p>Sprint focuses on a 5 day, intensive set of sessions to break down issues, center the team on the right problems to solve, and produce prototypes quickly.</p>
   presenter: Mark Vogelgesang
   slides: /assets/downloads/techtalks/TheSprintBook.pdf
-  
+
 - title: Mac Attack Tech Talk
   date: Apr 16, 2019
   time: 1-1:30p
@@ -103,7 +409,7 @@
         </p>
   presenter: Sean Zerges
   slides: /assets/downloads/techtalks/MacAttack.pdf
-  
+
 - title: GSA API Strategy Tech Talk
   date: Apr 4, 2019
   time: 1-1:30p
@@ -125,7 +431,7 @@
         <p>However, any data is only reliable if it is regularly reviewed and updated. For this reason, the Enterprise Architecture team has created the GEAR Manager page, which provides an intuitive interface for users to quickly edit and update their data in GEAR and see these updates on the site in real time.</p>
         <p> Please join us in this Tech Talk as the EA team discusses everything about the GEAR Manager page, from requesting access to making your first edits.</p>
   presenter: Jonah Hatfield
-  
+
 - title: Agile Basics and Control Tech Talk
   date: Mar 12, 2019
   time: 1-1:30p
@@ -134,7 +440,7 @@
         <p>This tech talk will cover two related topics</p>
         <p>First we'll discuss Agile basics and how to get started in adopting Agile practices, as well as some of the benefits. Second, we'll outline some ways in which Agile practices can enhance accountability and transparency.</p>
   presenter: Andrew Politi
-  
+
 - title: Qualtrics Tech Talk
   date: Feb 7, 2019
   time: 1-1:30p
@@ -163,7 +469,7 @@
         <p>During the Lightning Experience Tech Talk, Annie Egan from the ICPA team, will provide an overview about what Lightning is, highlight new and exciting features of the interface and discuss the Salesforce COE’s strategy for transitioning GSA to Lightning.</p>
   presenter: Anne Eagan
   slides: /assets/downloads/techtalks/GSALightningExperienceOverviewPresentation.pdf
-  
+
 - title:  Account and Network Security for teleworks Tech Talk
   date: Dec 6, 2018
   time: 1-1:30p

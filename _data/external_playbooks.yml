@@ -11,12 +11,24 @@
 
 - title: 18F Guides
   description: 18F provides a repository of best practices across their teams.
-  url: https://guides.18f.gov/
+  url: https://18f.gsa.gov/guides/
 
 - title: 18F Partnership Principles
   description: 18F's approach to collaboration with agencies that have partnerships with 18F.
   url: https://18f.gsa.gov/partnership-principles/
 
-- title: 18F Automated Testing Playbook
-  description: A set of principles, practices, idioms, and strategies pertaining to automated software testing and its adoption.
-  url: https://18f.github.io/automated-testing-playbook/
+- title: Application Rationalization Playbook
+  description: An agency guide to IT portfolio management.
+  url: http://github.com/GSA/cio-gov-application-rationalization-playbook/blob/master/application-rationalization-playbook-pdf.pdf?raw=true
+
+- title: Executive Guide to Federal IT Accessibility
+  description: Guidance for Federal CIOs and agency executives on their responsibilities under Section 508.
+  url: https://www.section508.gov/tools/playbooks/exec-guide-accessibility
+
+- title: Quick Guide to IT Accessibility for Program Managers
+  description: Guidance on managing a federal agency IT Accessibility program.
+  url: https://www.section508.gov/tools/playbooks/accessibility-playbook-quick-guide
+
+- title: Database Transformation Playbook - Sensitive Data Migration Process
+  description: The standard data migration processes developed by the TMF Application Modernization team for both sensitive and non-sensitive data sets.
+  url: /assets/downloads/SDM-SensitiveDataMigrationPlaybook.pdf
